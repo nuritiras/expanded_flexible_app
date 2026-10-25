@@ -175,7 +175,6 @@ arayüz tasarımı konularını anlatmak için kullanılabilir.
 ## 📄 Lisans
 
 Bu projeyi eğitim ve öğrenme amacıyla inceleyebilir, geliştirebilir ve
-kendi çalışmalarınıza uyarlayabilirsiniz. Açık bir lisansla yayımlamak
-isterseniz GitHub deposuna uygun bir `LICENSE` dosyası ekleyin.
+kendi çalışmalarınıza uyarlayabilirsiniz.
 
 <img width="798" height="1600" alt="image" src="https://github.com/user-attachments/assets/1fe5b766-9cb1-46c4-909a-a93c5850f497" />
