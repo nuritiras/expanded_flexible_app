@@ -5,6 +5,8 @@ nasıl kullanılabileceğini, **Değerler Eğitimi** temalı basit bir mobil
 uygulama üzerinden gösterir. Uygulamada adalet, yardımlaşma, dürüstlük
 ve sorumluluk değerleri listelenir.
 
+<img width="798" height="1600" alt="image" src="https://github.com/user-attachments/assets/1fe5b766-9cb1-46c4-909a-a93c5850f497" />
+
 📘 **İlgili makale:** [Flutter'da Expanded ve Flexible
 Widget'ları](https://pardusflutter.blogspot.com/2026/10/flutterda-expanded-ve-flexible-widgetlar.html)
 
